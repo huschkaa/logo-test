@@ -1,0 +1,60 @@
+.pontano {
+font-family: 'Pontano Sans', serif;
+font-size: 40px;
+color:black;
+}
+
+.kaushan {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+}
+
+.krona{
+  font-family: 'Krona One', sans-serif;
+  font-size: 40px;
+}
+
+.anton{
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+}
+
+.bowlby{
+  font-family: 'Bowlby One SC', cursive;
+  font-size: 40px;
+}
+
+.cairo{
+  font-family: 'Cairo', sans-serif;
+  font-size: 40px;
+}
+
+.berkshire{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 40px;
+}
+
+.permanent{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+}
+
+.blue {
+  color: #4286f4;
+}
+
+.green {
+  color: #2d9b4a;
+}
+
+.grey {
+  color: grey;
+}
+
+.red {
+  color: #ff530a;
+}
+
+.bold {
+  font-weight: bold;
+}
